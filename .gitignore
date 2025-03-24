@@ -1,0 +1,4 @@
+*.h5
+*.ckpt
+__pycache__/
+*.csv # Ignore datasets if needed
